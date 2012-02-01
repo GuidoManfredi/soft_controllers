@@ -1,0 +1,8 @@
+#goal definition
+pr2_soft_controller/SM_TRAJ_STR_ROS traj
+---
+#result definition
+bool result
+---
+#feedback (nothing to report)
+bool ntr

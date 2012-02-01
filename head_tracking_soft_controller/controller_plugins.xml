@@ -1,0 +1,3 @@
+<library path="lib/libhead_tracking_soft_controller_lib">
+  <class name="head_tracking_soft_controller/HeadTrackingSoftController" type="controller::HeadTrackingSoftController" base_class_type="pr2_controller_interface::Controller" />
+</library>

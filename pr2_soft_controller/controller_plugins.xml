@@ -1,0 +1,3 @@
+<library path="lib/libpr2_soft_controller_lib">
+  <class name="pr2_soft_controller/Pr2SoftController" type="controller::Pr2SoftController" base_class_type="pr2_controller_interface::Controller" />
+</library>

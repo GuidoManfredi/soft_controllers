@@ -1,0 +1,3 @@
+<library path="lib/libhead_soft_controller_lib">
+  <class name="head_soft_controller/HeadSoftController" type="controller::HeadSoftController" base_class_type="pr2_controller_interface::Controller" />
+</library>

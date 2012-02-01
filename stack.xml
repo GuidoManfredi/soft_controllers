@@ -1,0 +1,13 @@
+<stack>
+  <description brief="soft_controllers">soft_controllers</description>
+  <author>Maintained by Guido Manfredi</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/soft_controllers</url>
+  <depend stack="common" /> <!-- actionlib, pluginlib -->
+  <depend stack="pr2_controllers" /> <!-- trajectory_msgs, control_toolbox, pr2_controllers_msgs -->
+  <depend stack="pr2_mechanism" /> <!-- pr2_mechanism_model, realtime_tools, pr2_controller_interface -->
+  <depend stack="pr2_object_manipulation" /> <!-- pr2_gripper_sensor_msgs -->
+  <depend stack="ros" />
+
+</stack>

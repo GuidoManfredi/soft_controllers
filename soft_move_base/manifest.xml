@@ -1,0 +1,21 @@
+<package>
+  <description brief="soft_move_base">
+
+     soft_move_base
+
+  </description>
+  <author>Guido ManfrediInconnuInconnu0561336342</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/soft_move_base</url>
+  <depend package="actionlib"/>
+  <depend package="roscpp"/>
+  <depend package="actionlib_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="std_msgs"/>
+  <depend package="tf"/>
+  <depend package="pr2_soft_controller"/>
+
+</package>
+
+

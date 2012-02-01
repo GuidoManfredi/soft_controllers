@@ -1,0 +1,14 @@
+<package>
+  <description brief="soft_controllers_launch">
+
+     soft_controllers_launch
+
+  </description>
+  <author>Guido Manfredi</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/soft_controllers_launch</url>
+
+</package>
+
+

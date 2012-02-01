@@ -1,0 +1,9 @@
+int32 trajId
+int32 nbAxis
+float64 timePreserved
+float64[] qStart
+float64[] qGoal
+float64[] jmax
+float64[] amax
+float64[] vmax
+SM_TRAJ_AXIS_STR_ROS[] traj
